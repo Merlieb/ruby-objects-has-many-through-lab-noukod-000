@@ -13,7 +13,4 @@ class Song
     @@all << self
   end
 
-  def artist
-    @artist
-  end
 end
